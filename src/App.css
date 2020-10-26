@@ -1,0 +1,20 @@
+.app-container {
+    display: flex; 
+    flex-direction: column; 
+    background-color: #D1D8DF;
+    flex: 1;
+}
+
+.route-container {
+    display: flex;
+    flex: 1;
+    overflow: auto;
+    margin-top: 64px;
+}
+
+.route-switch-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: auto;
+}
